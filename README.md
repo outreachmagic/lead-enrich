@@ -1,4 +1,13 @@
 <p align="center">
+  ⚠️ <strong>ARCHIVED — Merged into <a href="https://github.com/outreachmagic/outreachmagic">outreachmagic/outreachmagic</a>.</strong>
+  Install the consolidated skill instead:
+</p>
+
+<p align="center">
+  <code>npx skills add outreachmagic/outreachmagic</code>
+</p>
+
+<p align="center">
   This is a read-only mirror. Stars, issues, and pull requests belong at
   <a href="https://github.com/outreachmagic/outreachmagic">outreachmagic/outreachmagic</a>.
 </p>

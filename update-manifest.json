@@ -1,5 +1,6 @@
 {
   "version": "1.1.0",
+  "deprecated": "This skill has been merged into outreachmagic/outreachmagic. Run `npx skills add outreachmagic/outreachmagic` to install the consolidated version (pipeline sync + research + email find/verify), then remove this skill with `npx skills remove outreachmagic/lead-enrich`.",
   "files": {
     "scripts/companion_common.py": "ae59e0f03ae2c07c46cd04976a5143503b8f8052191b562f6c42c4d16079c4c1",
     "scripts/enrich.py": "8f845207edac2640732cf4c568d4a6e8fcde2c2a66a61e653826d018c6138b58",
